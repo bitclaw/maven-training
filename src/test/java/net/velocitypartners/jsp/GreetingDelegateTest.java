@@ -18,6 +18,6 @@ public class GreetingDelegateTest {
 		//When
 		String greeting = greetingDelegate.getGreeting();
 		//Then
-		assertEquals(greeting, "Welcome to the Jenkins Training");
+		assertEquals(greeting, "Welcome to the Jenkins Training!!!!");
 	}
 }
